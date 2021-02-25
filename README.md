@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hello, world!
+
+I fell in love with the area in high school when I went to peek on a Hackaton. Since then, I have been discovering more about this rich and dynamic universe. 
+I have a lot of fun with the frontend development, but I also love the theoretical and historical part of Computing.
+
+###That's me
+```Python
+class VictoriaDuarte:
+  def __init__(self):
+    self.pronoum = ['she', 'they']
+    self.skills = ['C', 'Python', 'JS', 'TS', 'React', 'HTML', 'CSS', 'Figma', 'Photoshop']
+    self.learning = ['C++', 'Java']
+ 
+  def routine(self):
+     drink(coffee)
+     code()
+    
+    
+ myself = VictoriaDuarte()
+ 
+ while(true):
+     myself.routine()
+```
+!(https://octodex.github.com/images/mona-lovelace.jpg)
 
 <!--
 **vickyad/vickyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
