@@ -4,6 +4,8 @@
 I fell in love with the area in high school when I went to peek on a Hackaton. Since then, I have been discovering more about this rich and dynamic universe. 
 I have a lot of fun with the frontend development, but I also love the theoretical and historical part of Computing.
 
+This is the Github with projects that can be shared. 
+
 ### That's me
 ```Python
 class VictoriaDuarte:
